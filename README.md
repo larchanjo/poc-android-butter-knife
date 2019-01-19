@@ -1,13 +1,5 @@
-#1 Consul
+# Overview
 
-Run the command `docker run --rm -p 8500:8500 consul`
+This is a poc tha used [Butter Knife]
 
-#2 Applications
-
-Run service-one application
-
-Run service-two application
-
-#3 Request
-
-Do a request GET http://localhost:8081/booking
+[Butter Knife]=http://jakewharton.github.io/butterknife/
