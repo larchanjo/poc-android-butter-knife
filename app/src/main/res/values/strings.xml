@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">poc-android-butter-knife</string>
+  <string name="buttonText">I am binded</string>
+</resources>
